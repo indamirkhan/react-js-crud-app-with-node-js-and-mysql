@@ -16,6 +16,7 @@ Open the terminal
 
 npm init 
 npm install --save express mysql body-parser
+
 **Step 6**
 npm install -g nodemon
 Note : if you have already installed the nodemon then skip this Step
